@@ -2,7 +2,7 @@
 
 ## A Penguin Shaped PCB Trinket
 ---
-![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/5f5a6f156ab19bfb4716cc441e9d82847372b2b9_screenshot_2025-06-08_at_8.57.35___am.png)
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/e4b3016409c88f7cd4c49a3be15e6c7975e73f6d_screenshot_2025-06-08_at_9.12.09___am.png)
 ### What?
 
 A penguin shaped trinket! There are three LEDs that turn on when the photoresistor detects the absense of light; by using a NOT gate. There is a fourth override LED that can be activated by pressing the push-button. All four LEDs will shine when the button is pressed. Along with the LED glowing, the motor will be activated when the button is pressed. Capacitors are utilized to help store electrical energy, and resistors are used to limit the amount of energy going through the LEDs at a given time. Three NPN resistors are used, one of which is for the NOT gate.
