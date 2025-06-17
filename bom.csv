@@ -2,9 +2,9 @@
 1;"C1,C2";"CP_Radial_D8.0mm_P5.00mm";2;"C";;;
 2;"D2,D3,D4,D1";"LED_D5.0mm";4;"LED";;;
 3;"RV1";"Potentiometer_Vishay_T73YP_Vertical";1;"R_Potentiometer";;;
-4;"Q1,Q3,Q2";"TO-92L_HandSolder";3;"NPN";;;
-5;"SW1";"SW_PUSH_6mm";1;"SW_Push";;;
-6;"R3,R2";"R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal";2;"R";;;
+4;"R4,R3,R2";"R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal";3;"R";;;
+5;"Q1,Q3,Q2";"TO-92L_HandSolder";3;"NPN";;;
+6;"SW1";"SW_PUSH_6mm";1;"SW_Push";;;
 7;"R1";"R_LDR_5.1x4.3mm_P3.4mm_Vertical";1;"R_Photo";;;
 8;"BT1,BT2";"BatteryHolder_Keystone_3034_1x20mm";2;"Battery_Cell";;;
 9;"M1";"PinHeader_1x02_P2.54mm_Vertical";1;"Motor_DC";;;

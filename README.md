@@ -11,8 +11,8 @@ A penguin shaped trinket! There are three LEDs that turn on when the photoresist
 
 | Component | Quantity | Value |
 | ----- | ----- | ----- |
-| Resistor | 4 | 2x 220Ω / 1x 4.7kΩ
-| Capacitor | 1 | 10uF
+| Resistor | 3 | 2x 220Ω / 1x 4.7kΩ
+| Capacitor | 2 | 10uF
 | Potentiometer | 1 |
 | Pushbutton | 1 |
 | LED | 4 |
@@ -24,12 +24,12 @@ A penguin shaped trinket! There are three LEDs that turn on when the photoresist
 | Mini Motor Disk | 1 |
 
 ### Graphics: PCB, Schematic, 3d Renders*
-![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/3ba5bedb7522b9f13f7e77560bd9d5d05fe614e6_screenshot_2025-06-08_at_9.10.59___am.png)
-![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/8855d0d1abf78652337c4ac4cd9a0f6d334c045a_screenshot_2025-06-08_at_9.11.23___am.png)
-![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/d2695e95f2a853051dde8dffd4a36a49f6d5c52a_screenshot_2025-06-08_at_8.56.27___am.png)
-![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/e4b3016409c88f7cd4c49a3be15e6c7975e73f6d_screenshot_2025-06-08_at_9.12.09___am.png)
-![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/82b873477f971b5051c9fc809c73a92f6aeb3d20_screenshot_2025-06-08_at_9.12.25___am.png)
-![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/4bdf01457956b2467ef5d72467fcebc96f09307f_screenshot_2025-06-08_at_9.12.40___am.png)
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/83818b4ed79727a78c0309a4f23399918b307f89_screenshot_2025-06-17_at_12.29.55___pm.png)
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/167ac0732739abab46114789fd2b112751e1c25a_screenshot_2025-06-17_at_12.30.28___pm.png)
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/9a86e5f439dbdc6f49be28db60841a1b65624a06_screenshot_2025-06-17_at_12.29.12___pm.png)
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/5a548acbcf43dd10828299732a1c2c0d57f8e45a_screenshot_2025-06-17_at_12.31.01___pm.png)
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/b03d020425e1da0424c4e1994d55a2bf4044b663_screenshot_2025-06-17_at_12.31.25___pm.png)
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/bcf33c9e21c23eda950df8bae43108262d73c0b8_screenshot_2025-06-17_at_12.31.46___pm.png)
 
  **The potentiometer does not render in the 3d models*
 
